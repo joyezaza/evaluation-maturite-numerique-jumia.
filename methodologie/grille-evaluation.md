@@ -148,7 +148,6 @@ Les justifications ci-dessous **restituent le raisonnement de l’auteur du rapp
 - **Sources publiques uniquement** : les pratiques internes non publiées ne peuvent pas être confirmées ou infirmées.
 - **Notation qualitative** : absence d’indicateurs opérationnels standardisés et de validation externe des scores.
 - **Temporalité** : le diagnostic reflète la période documentaire étudiée et ne doit pas être présenté comme une mesure actuelle.
-- **Références à contrôler** : les documents primaires cités dans le rapport (rapports Jumia, présentations investisseurs, entretien de direction) doivent être retrouvés et vérifiés avant de soutenir des affirmations factuelles précises.
 - **Score ajusté non retenu** : la valeur d’environ 3,5/5 évoquée dans le rapport ne dispose pas d’une méthode de calcul reproductible.
 
-**Références internes au rapport :** § 1.2 (problématique), § 2.8.2 (modèle), § 3.1 (méthode), § 3.2.1–3.2.6 (diagnostics), § 3.3 (synthèse et calcul), § 3.4 (recommandations). Les références bibliographiques détaillées sont à présenter séparément dans `REFERENCES.md` après contrôle.
+**Références internes au rapport :** § 1.2 (problématique), § 2.8.2 (modèle), § 3.1 (méthode), § 3.2.1–3.2.6 (diagnostics), § 3.3 (synthèse et calcul), § 3.4 (recommandations). 
