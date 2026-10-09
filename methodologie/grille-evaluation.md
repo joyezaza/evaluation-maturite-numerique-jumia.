@@ -1,54 +1,38 @@
-# Grille d'évaluation de la maturité numérique — Jumia Group
+# Grille d’évaluation de la maturité numérique — Jumia Group
 
-**Projet académique indépendant · Université TÉLUQ · 2026**
+> **Étude académique indépendante (2026).** Les scores ci-dessous sont les appréciations qualitatives formulées dans le travail de session, à partir de sources publiques. Ils ne constituent ni un audit officiel, ni une notation approuvée par Jumia Group.
 
-> **Précaution méthodologique :** cette grille présente de façon transparente les dimensions, niveaux et scores rapportés dans l'étude. Les critères détaillés et les preuves documentaires par dimension doivent être rapprochés du rapport original avant toute publication comme grille d'audit reproductible. Il s'agit d'une estimation qualitative fondée sur des sources publiques, et non d'un audit ou d'une évaluation approuvée par Jumia Group.
+## 1. Objectif et périmètre
 
-## 1. Objectif
+Évaluer la maturité numérique de Jumia Group pour identifier les forces, les écarts et les leviers d’amélioration technologiques, organisationnels et culturels. Le diagnostic porte sur l’analyse documentaire réalisée dans le cadre du rapport universitaire, et non sur un accès aux systèmes internes de Jumia.
 
-Évaluer, de manière structurée, les capacités de transformation numérique de Jumia Group et dégager les principales priorités d'amélioration en tenant compte du contexte africain.
+## 2. Cadre conceptuel
 
-## 2. Cadre d'analyse
+Le rapport propose un modèle hybride inspiré des approches **MIT Sloan (Westerman, Bonnet et McAfee, 2014)** et **Deloitte (2020)**, contextualisé pour les marchés africains (infrastructures, logistique, mobile, inclusion et diversité réglementaire).
 
-Le modèle hybride de l'étude est inspiré de travaux sur la maturité et la transformation numériques, notamment ceux associés au MIT Sloan et à Deloitte. Il repose sur **six dimensions** et **cinq niveaux de maturité**.
+| Niveau | Libellé | Caractéristiques dans le rapport |
+|---|---|---|
+| 1 | Initiale | Technologies dispersées, absence de vision stratégique, faible culture numérique |
+| 2 | Émergente | Adoption partielle d’outils, premiers projets numériques, leadership en formation |
+| 3 | Structurée | Alignement partiel, processus numérisés, premières synergies entre équipes |
+| 4 | Intégrée | Cohérence stratégie–technologie–culture, gouvernance consolidée |
+| 5 | Optimisée | Organisation agile, pilotée par la donnée, innovation continue et durable |
 
-### Six dimensions
+**Source interne :** rapport, section 2.8.2, p. 33–34.
 
-| Dimension | Champ d'analyse général |
-|---|---|
-| Stratégie et leadership numérique | Vision, orientation stratégique et pilotage de la transformation |
-| Technologies et infrastructures | Capacités techniques, intégration et fiabilité des infrastructures |
-| Données et analytique | Exploitation, qualité et gouvernance des données |
-| Expérience client et écosystème | Parcours client et relations avec les partenaires |
-| Culture et compétences | Compétences numériques, apprentissage et adoption du changement |
-| Gouvernance et durabilité | Mécanismes de gouvernance et prise en compte de la durabilité |
+## 3. Sources et méthode
 
-*Les champs ci-dessus sont des descriptions synthétiques, et non une reproduction d'indicateurs détaillés vérifiés dans le rapport.*
+Le rapport (section 3.1, p. 36 environ) indique une **approche qualitative diagnostique** fondée sur :
 
-### Cinq niveaux
+1. Les rapports annuels et trimestriels de Jumia (2024–2025), présentations aux investisseurs et travaux académiques cités dans le rapport.
+2. Des données publiques opérationnelles et financières, notamment le *Q2 2025 Investor Deck*.
+3. Des entretiens publiés avec la direction, dont un entretien avec Francis Dufay (2024).
 
-| Note | Niveau |
-|---:|---|
-| 1 | Initiale |
-| 2 | Émergente |
-| 3 | Structurée |
-| 4 | Intégrée |
-| 5 | Optimisée |
+Chaque dimension reçoit une note entière de 1 à 5. Les six dimensions ont le **même poids** (1/6 chacune). Les scores correspondent à l’interprétation de l’auteur du rapport, et non à une mesure statistique validée.
 
-> Les définitions opérationnelles et seuils de passage entre niveaux doivent être documentés à partir du rapport avant d'utiliser cette grille pour comparer plusieurs organisations.
+## 4. Résultats
 
-## 3. Démarche d'évaluation
-
-1. **Revue de littérature :** identification des approches de transformation et de maturité numériques.
-2. **Analyse documentaire :** examen de documents et d'informations publics concernant Jumia et son environnement.
-3. **Adaptation du modèle :** prise en compte des contraintes économiques, technologiques et institutionnelles des marchés africains.
-4. **Appréciation qualitative :** attribution d'un niveau estimé à chacune des six dimensions.
-5. **Synthèse :** calcul du score global et identification des forces et des priorités d'amélioration.
-6. **Recommandations :** formulation de pistes d'action stratégiques.
-
-## 4. Résultats de l'étude
-
-| Dimension | Score estimé | Niveau correspondant |
+| Dimension | Note | Niveau |
 |---|---:|---|
 | Stratégie et leadership numérique | 4/5 | Intégrée |
 | Technologies et infrastructures | 3/5 | Structurée |
@@ -58,73 +42,80 @@ Le modèle hybride de l'étude est inspiré de travaux sur la maturité et la tr
 | Gouvernance et durabilité | 2/5 | Émergente |
 | **Moyenne globale** | **3,2/5** | **Entre structurée et intégrée** |
 
-### Calcul du score global
+**Calcul :** (4 + 3 + 3 + 4 + 3 + 2) / 6 = 19/6 ≈ **3,17**, soit **3,2/5** à une décimale. Le rapport mentionne également un score ajusté d’environ 3,5/5, mais n’explicite pas de coefficients permettant de le reproduire : ce fichier retient donc exclusivement la moyenne simple.
 
-En l'absence d'une pondération justifiée pour les dimensions, la présentation publique utilise une **moyenne simple** :
+## 5. Justification et traçabilité des six évaluations
 
-```text
-(4 + 3 + 3 + 4 + 3 + 2) / 6 = 19 / 6 ≈ 3,17 ≈ 3,2 / 5
-```
+Les paragraphes suivants **restituent les constats et interprétations du rapport**. Les références indiquent où trouver leur argumentation dans le document universitaire ; elles ne constituent pas une vérification indépendante de chaque affirmation sur Jumia.
 
-La valeur **3,2/5** est une synthèse indicative, **pas une mesure statistique validée**. Une moyenne ne correspond pas, à elle seule, à un niveau officiel de certification.
+### 5.1 Stratégie et leadership numérique — 4/5 (Intégrée)
 
-## 5. Lecture du diagnostic
+**Justification dans le rapport :** l’étude décrit une vision stratégique orientée vers la simplification des opérations, l’automatisation progressive de la logistique et l’amélioration de la rentabilité. Elle interprète ces priorités comme le signe d’un alignement avancé entre stratégie d’affaires et initiatives numériques. Le rapport relève toutefois une consolidation encore incomplète des indicateurs numériques et une approche fondée sur les données jugée partielle, ce qui motive le maintien sous le niveau 5.
 
-**Forces relatives :** stratégie et leadership numérique (4/5), expérience client et écosystème (4/5).
+**Traçabilité :** rapport, § 3.2.1 ; référence citée dans ce passage : **Jumia Group (2025)**. La présence ou l’absence d’un tableau de bord interne intégré n’est pas directement vérifiable à partir des seules sources publiques.
 
-**Dimensions intermédiaires :** technologies et infrastructures, données et analytique, culture et compétences (3/5 chacune).
+### 5.2 Technologies et infrastructures — 3/5 (Structurée)
 
-**Priorité d'amélioration :** gouvernance et durabilité (2/5).
+**Justification dans le rapport :** l’étude présente des plateformes et outils numériques soutenant les opérations, mais souligne une hétérogénéité présumée des capacités techniques entre marchés et une interopérabilité qui ne serait pas complètement harmonisée. Ce contraste justifie, dans le diagnostic académique, une maturité structurée plutôt qu’intégrée.
 
-Ces appréciations découlent du modèle appliqué dans l'étude et ne doivent pas être présentées comme des constats issus d'entretiens ou d'inspections internes.
+**Traçabilité :** rapport, § 3.2.2. Le passage mentionne **Deloitte (2020)**, qui constitue un cadre conceptuel général et **ne suffit pas, à lui seul, à prouver les technologies spécifiques attribuées à Jumia** (ERP, IA, RPA ou architecture cloud). Ces détails doivent être vérifiés avant d’être présentés comme des faits établis.
 
-## 6. Orientations stratégiques
+### 5.3 Données et analytique — 3/5 (Structurée)
 
-1. Institutionnaliser la gouvernance numérique et le pilotage de la performance.
-2. Renforcer la gouvernance et la valorisation des données.
-3. Harmoniser les infrastructures et automatiser les processus pertinents.
-4. Développer la culture et les compétences numériques.
-5. Améliorer l'expérience client et intégrer les enjeux de durabilité.
-6. Soutenir les partenariats et l'innovation ouverte.
+**Justification dans le rapport :** le modèle de plateforme génère des données transactionnelles utiles, mais l’étude estime que leur gouvernance et leur exploitation analytique pourraient être davantage intégrées. Elle recommande un cadre transversal pour la qualité, la protection, la conformité et le pilotage par indicateurs.
 
-## 7. Justification et traçabilité des évaluations
+**Traçabilité :** rapport, § 3.2.3 ; référence contextuelle au **Nigeria Data Protection Act (2023)**. L’affirmation relative à l’absence d’un cadre global de gouvernance des données relève du diagnostic de l’auteur et **ne démontre pas l’absence effective de mécanismes internes non publics**.
 
-Les scores de maturité numérique présentés dans cette étude
-résultent d'une analyse qualitative de sources publiques.
+### 5.4 Expérience client et écosystème — 4/5 (Intégrée)
 
-Pour chaque dimension, l'évaluation repose sur :
+**Justification dans le rapport :** l’étude met en avant l’orientation mobile de la plateforme, les interactions entre vendeurs et acheteurs et la place des partenaires logistiques et de paiement. Elle considère l’expérience client et l’écosystème comme des atouts, tout en relevant des défis liés à la desserte rurale et à la gestion des retours.
 
-- Les critères définis dans le modèle de maturité.
-- Les constats issus de l'analyse documentaire.
-- Les éléments probants identifiés dans les sources.
-- Une justification du niveau de maturité attribué.
+**Traçabilité :** rapport, § 3.2.4 ; sources mentionnées : **rapport annuel Jumia 2025** et **Accenture (2018)** pour le cadre conceptuel des écosystèmes. Le chiffre de **+28 % de satisfaction** et la promesse de **livraison en 48 heures** figurent dans le rapport, mais ne sont **pas repris ici comme faits vérifiés** tant que les passages exacts du rapport officiel ne sont pas retrouvés.
 
-| Dimension | Score | Justification | Sources |
-|---|---|---|---|
-| Stratégie et leadership numérique | 4/5 | À documenter | À préciser |
-| Technologies et infrastructures | 3/5 | À documenter | À préciser |
-| Données et analytique | 3/5 | À documenter | À préciser |
-| Expérience client et écosystème | 4/5 | À documenter | À préciser |
-| Culture et compétences | 3/5 | À documenter | À préciser |
-| Gouvernance et durabilité | 2/5 | À documenter | À préciser |
+### 5.5 Culture et compétences — 3/5 (Structurée)
 
-### Limites méthodologiques
+**Justification dans le rapport :** l’étude décrit une culture numérique en transition et estime que les dispositifs de formation et d’apprentissage continu gagneraient à être systématisés. Elle recommande des parcours structurés de développement des compétences et un leadership participatif.
 
-Les évaluations sont des estimations académiques
-fondées sur des informations publiques.
+**Traçabilité :** rapport, § 3.2.5 ; cadre conceptuel cité : **Westerman, Soule et Eswaran (2019)**. Les appréciations sur les compétences des équipes et les formations internes sont **des hypothèses diagnostiques**, faute d’entretiens internes ou de données RH directement documentées.
 
-Elles ne constituent pas un audit officiel de Jumia Group.
+### 5.6 Gouvernance et durabilité — 2/5 (Émergente)
 
-## 8. Limites
+**Justification dans le rapport :** l’étude reconnaît des initiatives de conformité et de sécurité, mais juge insuffisamment démontrées l’institutionnalisation d’une gouvernance numérique transversale, la coordination des risques technologiques et la mesure consolidée de la durabilité. Elle propose un comité de gouvernance numérique et des indicateurs ESG.
 
-- Sources publiques uniquement ; aucun accès aux systèmes ou aux données internes.
-- Jugements qualitatifs sensibles à la disponibilité et à la date des informations.
-- Absence de validation des scores par Jumia Group.
-- Pondération égale utilisée pour rendre explicite le calcul du score global.
-- Résultats non généralisables automatiquement à d'autres entreprises.
+**Traçabilité :** rapport, § 3.2.6 ; référence conceptuelle citée : **Pavaloiu et Kose (2017)**. **Précaution essentielle :** le rapport affirme qu’il n’existe pas de comité dédié ou de cadre unifié ; sans accès aux dispositifs internes, cela doit être reformulé comme **absence de preuve suffisante dans le corpus analysé**, et non comme preuve de leur inexistence.
 
-## 9. Statut et attribution
+## 6. Recommandations issues du diagnostic
 
-**Étude académique indépendante**, réalisée dans le cadre d'une formation à l'Université TÉLUQ. Aucun mandat, partenariat ou affiliation avec Jumia Group n'est revendiqué.
+1. **Institutionnaliser la gouvernance numérique** : pilotage, responsabilités, feuille de route et indicateurs.
+2. **Renforcer la gouvernance des données** : qualité, sécurité, conformité et analytique.
+3. **Harmoniser les infrastructures** : interopérabilité et automatisation progressive.
+4. **Développer les compétences** : formation continue et culture numérique.
+5. **Optimiser l’expérience client et la durabilité** : accessibilité, logistique et suivi d’impacts.
+6. **Favoriser les partenariats et l’innovation ouverte** : acteurs fintech, logistiques et technologiques.
 
-Retour au [README principal](../README.md).
+**Source interne :** rapport, § 3.4.
+
+## 7. Limites et règles de réutilisation
+
+- Les notes sont **des estimations académiques qualitatives**, pas des mesures certifiées.
+- Les sources publiques ne permettent pas de conclure avec certitude sur les pratiques, comités, politiques ou outils **internes** non publiés.
+- Les sources conceptuelles (MIT Sloan, Deloitte, Accenture, etc.) servent à construire la grille ; elles ne prouvent pas automatiquement des faits spécifiques à Jumia.
+- Les références « Jumia Group 2025 », « Q2 2025 Investor Deck » et « Interview Dufay 2024 » sont **mentionnées dans le rapport** ; les documents originaux et les pages exactes doivent être contrôlés avant de les citer comme pièces justificatives directes.
+- Le score **3,5/5 ajusté** n’est pas reproduit en l’absence de méthode de pondération explicite.
+- Le diagnostic correspond à la période étudiée dans le rapport et **ne prétend pas décrire l’état actuel** de l’entreprise.
+
+## 8. Référence au document source
+
+*Travail de session — Transformation numérique*, Université TÉLUQ, 2026 :
+
+- § 2.8.2 : modèle hybride, dimensions et niveaux de maturité ;
+- § 3.1 : approche méthodologique et sources ;
+- § 3.2.1 à 3.2.6 : argumentaires par dimension ;
+- § 3.3 : tableau récapitulatif et moyenne ;
+- § 3.4 : recommandations.
+
+Consulter le rapport complet dans `documents/rapport-final.pdf` lorsqu’il aura été ajouté au dépôt. Les références bibliographiques devront être regroupées et vérifiées dans `REFERENCES.md`.
+
+---
+
+**Indépendance :** étude académique sans mandat, approbation ou affiliation avec Jumia Group.
