@@ -87,18 +87,33 @@ Ces appréciations découlent du modèle appliqué dans l'étude et ne doivent p
 5. Améliorer l'expérience client et intégrer les enjeux de durabilité.
 6. Soutenir les partenariats et l'innovation ouverte.
 
-## 7. Traçabilité à compléter avant réutilisation
+## 7. Justification et traçabilité des évaluations
 
-Pour rendre l'évaluation pleinement vérifiable, compléter ce tableau à partir du rapport final et des sources primaires :
+Les scores de maturité numérique présentés dans cette étude
+résultent d'une analyse qualitative de sources publiques.
 
-| Dimension | Indicateurs précis | Sources et dates | Justification du score | Limites |
-|---|---|---|---|---|
-| Stratégie et leadership numérique | À documenter | À documenter | À documenter | À documenter |
-| Technologies et infrastructures | À documenter | À documenter | À documenter | À documenter |
-| Données et analytique | À documenter | À documenter | À documenter | À documenter |
-| Expérience client et écosystème | À documenter | À documenter | À documenter | À documenter |
-| Culture et compétences | À documenter | À documenter | À documenter | À documenter |
-| Gouvernance et durabilité | À documenter | À documenter | À documenter | À documenter |
+Pour chaque dimension, l'évaluation repose sur :
+
+- Les critères définis dans le modèle de maturité.
+- Les constats issus de l'analyse documentaire.
+- Les éléments probants identifiés dans les sources.
+- Une justification du niveau de maturité attribué.
+
+| Dimension | Score | Justification | Sources |
+|---|---|---|---|
+| Stratégie et leadership numérique | 4/5 | À documenter | À préciser |
+| Technologies et infrastructures | 3/5 | À documenter | À préciser |
+| Données et analytique | 3/5 | À documenter | À préciser |
+| Expérience client et écosystème | 4/5 | À documenter | À préciser |
+| Culture et compétences | 3/5 | À documenter | À préciser |
+| Gouvernance et durabilité | 2/5 | À documenter | À préciser |
+
+### Limites méthodologiques
+
+Les évaluations sont des estimations académiques
+fondées sur des informations publiques.
+
+Elles ne constituent pas un audit officiel de Jumia Group.
 
 ## 8. Limites
 
